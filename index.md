@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Nguyễn Huỳnh Kha Ben
 
 You can use the [editor on GitHub](https://github.com/khabenstnhd/khaben.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](https://user-images.githubusercontent.com/96576030/159122145-d3f9dcd6-0b3c-4ecb-b538-866579ed5ccd.jpg)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
